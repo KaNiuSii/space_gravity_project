@@ -12,3 +12,7 @@ In order:
 - x velocity
 - y velocity
 - RGB colour values
+# Values tracking
+To keep track of what is happening with the objects, you can use the 
+panel in the upper left corner
+![Imgur](https://i.imgur.com/nuJVIHJ.png)
